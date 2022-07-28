@@ -1,0 +1,131 @@
+.complete{
+	border: 1rem solid;
+	color: black;
+	border-width: 3px;
+	padding: 10%;
+	margin-top: 40%;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	
+}
+.flex-container{
+	display: flex;
+    flex-direction:row-reverse ;
+	justify-content: space-between ;
+	
+    
+	/*flex-wrap: wrap;*/
+}
+.leftfirst{
+	background-color:orangered;
+	
+    height: 3rem;
+	text-align: center;
+	border-radius: 5px;
+	color: white; 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.diffcolor
+{color: rgb(96, 96, 248);
+}
+.diffcolor1{
+	color: rgb(96, 96, 248);
+	line-height: 1.5rem;
+	
+}
+h5{
+	margin: 0
+}
+.pic2{
+	margin-top: 20px;
+	/*margin-right: 5px;
+	margin-bottom: 0rem;*/
+	width: 70px; 
+	height: 70px;
+	display: flex;
+	justify-content: left;
+
+}
+.rightfirst{
+	text-align: right;
+	
+	justify-content: end;	
+}
+/*.restline{
+	display: flex;
+	justify-content: left;
+}*/
+.pic1{
+	margin-top: 2%;
+    height: 150px;
+	width: 150px;
+	
+}
+.name{
+	color:rgb(47, 47, 216);
+}
+h3{
+    display: flex;
+}
+.line{
+	border-top: 1px dashed;
+}
+.pic4{
+	margin-left: 85%;
+}
+.id{
+	display: flex;
+	justify-content: space-between;
+		
+}
+
+p{
+	margin: 0;
+}
+.para{
+	margin-left: 40px;
+	margin-top: 0%;
+}
+footer{
+	display: flex;
+	
+	/*margin: 10%;
+    align-items: flex-start;*/	
+}
+.last{
+	margin-left: 10px;
+}
+.end{
+	margin-left: 150px;
+}
+.end2{display: flex ;
+	text-align: right;
+	
+	
+	
+}
+.pic3{
+	display: flex;
+  vertical-align: top;
+  margin-right: 2px;
+}
+.try{
+	display: flex;
+	flex-direction: row;
+	/*-ms-flex-item-align:center ;*/
+
+	
+}
+
+	
+
+
+	
+
+
+
+
